@@ -1,0 +1,9 @@
+body {
+    background-color: aliceblue !important;
+    overflow-y: auto !important;
+}
+
+.profile-pic {
+    width: 350px;
+}
+

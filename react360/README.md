@@ -1,2 +1,0 @@
-# hackerapp
-Project 3

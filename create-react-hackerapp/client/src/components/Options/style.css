@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+  }
+
+.modal {
+    /* margin: 20px !important; */
+    width: 300px !important;
+    height: 410px !important;
+    margin-top: 100px !important;
+    border-radius: 10px;
+    opacity: .9 !important;
+    width: 30vw;
+    height: 30vw;
+    /* line-height: 30vw; */
+    text-align: center;
+    /* color: #252B37;
+    background-color: #151823; */
+}

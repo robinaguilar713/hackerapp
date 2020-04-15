@@ -1,0 +1,55 @@
+body {
+    background-color: black !important;
+    overflow-y: auto;
+    overflow: auto !important;
+    overflow-x: hidden !important;
+}
+
+strong {
+    font-weight: 500;
+}
+
+.profile-card{
+    margin: 20px !important;
+    border-radius: 15px !important;
+    border: 2px solid rgb(97, 197, 228);
+    opacity: 90%;
+}
+
+.profile-pic {
+    width: 150px;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.profile-header {
+    font-size: 36px;
+    color: aliceblue !important;
+}
+
+.coin-style {
+    width: 20px !important;
+    margin-bottom: 0px;
+}
+
+.coin-amount {
+    font-size: 36px;
+    font-weight: 500;
+    color: black;
+}
+
+.profile-button {
+    border: 1px solid rgb(97, 197, 228);
+    background-color: rgba(46, 59, 65, 0.61);
+    width: 100px;
+}
+
+.profile-button:focus {
+    background-color: rgba(62, 87, 99, 0.61);
+}

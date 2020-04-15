@@ -22,6 +22,8 @@ const NavBar = () => {
             <span>
               <Link to="/">Home</Link>&nbsp;
               <Link to="/profile">Profile</Link>
+              <Link to="/start">Start</Link>
+              <Link to="/community">Community</Link>
             </span>)
           }
         </div>

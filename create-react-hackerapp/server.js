@@ -22,8 +22,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 // Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/hackerapp"
-// "mongodb://heroku_29bj1hnp:420Hardcore@ds129045.mlab.com:29045/heroku_29bj1hnp"
+mongoose.connect(process.env.MONGODB_URI || "mongodb://user0:password0@ds259255.mlab.com:59255/heroku_g07w2zrc"
 );
 
 app.listen(PORT, function() {
